@@ -1,0 +1,17 @@
+{
+  "name": "Macır Mahallesi Radyo",
+  "short_name": "Macır Radyo",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07030a",
+  "theme_color": "#07030a",
+  "icons": [
+    {
+      "src": "logo-cutout.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
